@@ -6,7 +6,7 @@ Examples to follow:
 # License: 
 - I tend to use the GNU GPL v3 licnese, just because it has more of a creative conmmons/opensources/returen youor improvemtnes to the opensource community... but connect with me if you need a BSD or MIT licnese.
 
-This is the first example:
+# This is the first example:
 <?php
 
 // Check if the 'text' parameter is present in the URL
