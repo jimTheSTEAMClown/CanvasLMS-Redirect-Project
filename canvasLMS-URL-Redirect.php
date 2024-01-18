@@ -1,3 +1,5 @@
+//Published version on:
+// https://www.steamclown.org/canvas/canvasClassURLRedirect.php
 <?php
 
 // Check if the 'text' parameter is present in the URL
